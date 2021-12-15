@@ -1,0 +1,2 @@
+CINZA EXOTICS: rgba (215, 213, 213, 85)
+laranja-fraco (landing page): rgb (248, 174, 147)
